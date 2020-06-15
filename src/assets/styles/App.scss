@@ -1,0 +1,17 @@
+@import"./Vars.scss";
+@import"./Media.scss";
+body {
+   background: $main-color;
+  font-family: $theme-font;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+ .footer {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+

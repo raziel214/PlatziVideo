@@ -1,0 +1,13 @@
+@import "./Vars.scss";
+@import "./Media.scss";
+
+body {
+  margin: 0;
+  font-family: $theme-font;
+  color: white;
+  background-color: $main-color;
+}
+
+* {
+  box-sizing: border-box;
+}
